@@ -20,4 +20,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - $CM_EMAIL
+          - kingbarofficial1@gmail.com
